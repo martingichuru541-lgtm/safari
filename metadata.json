@@ -1,0 +1,8 @@
+{
+  "name": "KenyaOne Travel & Safaris",
+  "description": "International luxury tourism and safari platform featuring cinematic 3D Kenyan environments, luxury lodge and beach bookings, safari packages, vehicle marketplace, interactive destination discovery, and AI travel concierge.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
